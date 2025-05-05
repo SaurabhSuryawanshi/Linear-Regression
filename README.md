@@ -1,6 +1,7 @@
 AI Preparedness Index:A Linear Regression Approach
 
 -This repository focuses on developing a data-driven AI Preparedness Index using linear regression.
+
 -The goal is to evaluate the readiness of AI systems to tackle real-world challenges through a robust and insightful predictive model.
 
  Key Highlights:
